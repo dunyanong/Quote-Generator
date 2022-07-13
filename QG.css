@@ -84,12 +84,12 @@ h1{
     100% { background-position: 0 0; }
 }
 
-.name{
-    color: turquoise;
-    font-size: 15px;
-    text-align: center;
+.foot{
+    margin-top: 10rem;
 }
 
-@media only screen and (max-width: 375px) and (max-height: 812px) and (-webkit-device-pixel-ratio: 3) {
-    
+.name{
+    color: white;
+    font-size: 15px;
+    text-align: center;
 }
