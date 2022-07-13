@@ -18,7 +18,7 @@ function fortuneSelector(){
 
 function showFortune(){
   quote.innerHTML = fortuneSelector();
-  button.innerHTML = "CLick me again";
+  button.innerHTML = "Click Me!";
   button.style.cursor = "default";
 
   //add your code here
